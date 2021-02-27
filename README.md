@@ -1,6 +1,6 @@
 # Leo Natan’s Homebrew Tap
 
-This is a [Homebrew][brew] tap for formulae for software [developed by Leo Natan](https://github.com/LeoNatan).
+This is a [Homebrew][brew] tap for formulae of software [developed by Leo Natan](https://github.com/LeoNatan).
 
 ## Setup
 
