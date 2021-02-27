@@ -1,7 +1,6 @@
-# Wix Homebrew Tap
+# Leo Natan’s Homebrew Tap
 
-This is a [Homebrew][brew] tap for formulae for software developed by Wix.
-
+This is a [Homebrew][brew] tap for formulae for software [developed by Leo Natan](https://github.com/LeoNatan).
 
 ## Setup
 
@@ -12,7 +11,7 @@ document.
 Once homebrew is installed, simply run:
 
 ```shell
-brew tap wix/brew
+brew tap LeoNatan/tap
 ```
 
 ## Use
@@ -22,9 +21,9 @@ may wish to run `brew update` before hand to get the latest version of the
 formulae. For example, to install the latest version of the Apple simulator utilities:
 
 ```shell
-brew tap wix/brew
+brew tap LeoNatan/tap
 brew update
-brew install wix/applesimutils
+brew install LeoNatan/applesimutils
 ```
 
 To upgrade software:
@@ -41,7 +40,7 @@ brew upgrade
 ## Troubleshooting
 
 - In case an installation fails, make sure to update your command line tools in the System Update system prefernce pane of your Mac
-- If Homebrew complains about a conflict in the `wix/brew` tap, run `brew untap wix/brew && brew tap wix/brew` and try installing again
+- If Homebrew complains about a conflict in the `LeoNatan/tap` tap, run `brew untap LeoNatan/tap && brew tap LeoNatan/tap` and try installing again
 - If installation still fails, **run `brew doctor` and fix all issues & warnings**
 
 ## Contributing
